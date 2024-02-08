@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: url(https://imgs.search.brave.com/07lrhWJOCzSteDFxh-BXnPdPezgiDBYYleNVx0zt2AE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9w/cm9ncmFtbWluZy1j/b2RlLXdpdGgtbGFw/dG9wLWJhY2tncm91/bmRfMTEzNC02MS5q/cGc_c2l6ZT02MjYm/ZXh0PWpwZw);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: helvetica;
+  }
+  p {
+    font-size: 22px;
+  }
+  input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+  }
+  input[type="submit"] {
+    background: red;
+    color: white;
+  }
